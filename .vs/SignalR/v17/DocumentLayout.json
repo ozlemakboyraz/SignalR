@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|c:\\users\\excalibur\\source\\repos\\signalr\\signalr.web\\wwwroot\\js\\signalr-client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|solutionrelative:signalr.web\\wwwroot\\js\\signalr-client.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|c:\\users\\excalibur\\source\\repos\\signalr\\signalr.web\\hubs\\exampletypesafehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|solutionrelative:signalr.web\\hubs\\exampletypesafehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|c:\\users\\excalibur\\source\\repos\\signalr\\signalr.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|solutionrelative:signalr.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|c:\\users\\excalibur\\source\\repos\\signalr\\signalr.web\\hubs\\iexampletypesafehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|solutionrelative:signalr.web\\hubs\\iexampletypesafehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|c:\\users\\excalibur\\source\\repos\\signalr\\signalr.web\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|solutionrelative:signalr.web\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|c:\\users\\excalibur\\source\\repos\\signalr\\signalr.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|solutionrelative:signalr.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|c:\\users\\excalibur\\source\\repos\\signalr\\signalr.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42BE27BF-741A-4F42-A3EF-893E31CE1B01}|SignalR.Web\\SignalR.Web.csproj|solutionrelative:signalr.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 72,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SignalR.Web\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Models\\Product.cs",
+              "RelativeToolTip": "SignalR.Web\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:30:46.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExampleTypeSafeHub.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Hubs\\ExampleTypeSafeHub.cs",
+              "RelativeDocumentMoniker": "SignalR.Web\\Hubs\\ExampleTypeSafeHub.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Hubs\\ExampleTypeSafeHub.cs",
+              "RelativeToolTip": "SignalR.Web\\Hubs\\ExampleTypeSafeHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:38:22.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExampleTypeSafeHub.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Hubs\\IExampleTypeSafeHub.cs",
+              "RelativeDocumentMoniker": "SignalR.Web\\Hubs\\IExampleTypeSafeHub.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Hubs\\IExampleTypeSafeHub.cs",
+              "RelativeToolTip": "SignalR.Web\\Hubs\\IExampleTypeSafeHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:36:09.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "signalr-client.js",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\wwwroot\\js\\signalr-client.js",
+              "RelativeDocumentMoniker": "SignalR.Web\\wwwroot\\js\\signalr-client.js",
+              "ToolTip": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\wwwroot\\js\\signalr-client.js",
+              "RelativeToolTip": "SignalR.Web\\wwwroot\\js\\signalr-client.js",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-04T11:02:25.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalR.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SignalR.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T11:25:22.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Program.cs",
+              "RelativeToolTip": "SignalR.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:28:52.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SignalR.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Excalibur\\source\\repos\\SignalR\\SignalR.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SignalR.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T10:54:15.314Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
