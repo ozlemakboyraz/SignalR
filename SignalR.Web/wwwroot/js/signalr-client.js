@@ -224,7 +224,8 @@
     });
 
  
-    document.getElementById(" btn-send-typed-message-all-client").addEventListener("click", function () {
+    document.getElementById("btn-send-typed-message-all-client").addEventListener("click", function () {
+
 
         const product = { id: 1, name: "pen 1", price: 200 };
 
